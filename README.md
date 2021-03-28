@@ -1,11 +1,11 @@
 # Saudações 👋
 ## Or should I say 'Greetings'?
 
-I'm Marcos Braga Choma, a developer based on São Paulo, Brazil. I'm currently working on desktop based applications with .Net/WPF and Oracle. And currently learning React[Native] to handle small projects and apps.
+I'm Marcos Braga Choma, a developer based on São Paulo, Brazil. I'm currently working on C# and JavaScript projects, and also 🌱learning React[Native] to handle small projects and apps.
 
 Check my home page http://choma.dev and LinkedIn profile https://www.linkedin.com/in/marcosbragachoma/
 
-Cheers
+Cheers 🚀
 
 <!--
 **chomadev/chomadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
